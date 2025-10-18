@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
-  Super Neptunia RPG
+  Devil May Cry 5
 </p>
 
 <p align="center">
-  <img src="/img/Super Neptunia RPG.jpg">
+  <img src="/img/DMC5.jpg">
 </p>
 
 
