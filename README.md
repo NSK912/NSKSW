@@ -26,4 +26,21 @@
   <img src="/img/DMC5.jpg">
 </p>
 
+<p align="center">
+  Hyperdimension Neptunia U: Action Unleashed
+</p>
+
+<p align="center">
+  <img src="/img/NeptuniaU.png">
+</p>
+
+<p align="center">
+  MegaTagmension Blanc + Neptune VS Zombies
+</p>
+
+<p align="center">
+  <img src="/img/MegaTagmension Blanc.png">
+</p>
+
+
 
