@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="/img/QR1.png">
+  <img src="/img/QR3.png">
 </p>
 
 <p align="center">
