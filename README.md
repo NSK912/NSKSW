@@ -1,5 +1,5 @@
 <p align="center">
-  Donate-บริจาก https://www.patreon.com/c/Natsuki69 <br> Follow-ติดตาม: https://www.youtube.com/@Nat_suki452
+  Donate-บริจาก https://www.patreon.com/c/natsuki69/membership <br> Follow-ติดตาม: https://www.youtube.com/@Nat_suki452
 </p>
 
 <p align="center">
