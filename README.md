@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="/img/QR4.png">
+</p>
+
+<p align="center">
   Super Neptunia RPG
 </p>
 
