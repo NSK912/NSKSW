@@ -39,11 +39,18 @@
 </p>
 
 <p align="center">
-  MegaTagmension Blanc + Neptune VS Zombies
+  Wcut
 </p>
 
 <p align="center">
-  <img src="/img/MegaTagmension Blanc.png">
+  Wcut is an editing app that merges files without re‑encoding, keeping full quality. 
+  It’s simple, fast, and requires 
+  <a href="https://github.com/BtbN/FFmpeg-Builds/releases/tag/latest" target="_blank">FFmpeg‑Builds</a>
+  to work.
+</p>
+
+<p align="center">
+  <img src="/img/Wcut.png">
 </p>
 
 
