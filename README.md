@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="/img/Wcat1.png">
+  <img src="/img/Wcat2.png">
 </p>
 
 
