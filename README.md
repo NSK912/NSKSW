@@ -44,13 +44,11 @@
 
 <p align="center">
   Wcut is an editing app that merges files without re‑encoding, keeping full quality. 
-  It’s simple, fast, and requires 
-  <a href="https://github.com/BtbN/FFmpeg-Builds/releases/tag/latest" target="_blank">FFmpeg‑Builds</a>
-  to work.
+  It’s simple, fast, fix broken file, 
 </p>
 
 <p align="center">
-  <img src="/img/Wcat2.png">
+  <img src="/img/Wcat3.png">
 </p>
 
 
