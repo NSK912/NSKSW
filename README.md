@@ -44,7 +44,7 @@
 
 <p align="center">
   Wcut is an editing app that merges files without re‑encoding, keeping full quality. 
-  It’s simple, fast, fix broken file, 
+  It’s simple, fast, fix broken file,  https://github.com/BtbN/FFmpeg-Builds/releases?utm_source=copilot.com
 </p>
 
 <p align="center">
