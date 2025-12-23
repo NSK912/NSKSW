@@ -1,6 +1,8 @@
 <p align="center">
-  Donate-บริจาก https://www.patreon.com/c/natsuki69/membership <br> Follow-ติดตาม: https://www.youtube.com/@Nat_suki452
+  Donate-บริจาก https://www.patreon.com/c/natsuki69/membership  
 </p>
+
+<p align="center">Follow-ติดตาม: https://www.youtube.com/@Nat_suki452</p>
 
 <p align="center">
   <img src="/img/QR4.png">
@@ -44,8 +46,12 @@
 
 <p align="center">
   Wcut is an editing app that merges files without re‑encoding, keeping full quality. 
-  It’s simple, fast, fix broken file,  https://github.com/BtbN/FFmpeg-Builds/releases?utm_source=copilot.com
+  It’s simple, fast, fix broken file,
 </p>
+
+ <p align="center">Linux Ver - https://github.com/NSK912/NSKSW/releases/download/fix/wcat.1.0.0.linux64.zip</p>  
+
+<p align="center">source - https://github.com/BtbN/FFmpeg-Builds/releases?utm_source=copilot.com</p>
 
 <p align="center">
   <img src="/img/Wcat3.png">
