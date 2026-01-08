@@ -51,8 +51,6 @@
 
 <p align="center">MS App - https://apps.microsoft.com/detail/9NH7RRKT5LTD?hl=en-us&gl=TH&ocid=pdpshare</p>
 
- <p align="center">Linux Ver - https://github.com/NSK912/NSKSW/releases/tag/fix</p>  
-
 <p align="center">source - https://github.com/BtbN/FFmpeg-Builds/releases?utm_source=copilot.com</p>
 
 <p align="center">
