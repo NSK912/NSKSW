@@ -54,7 +54,7 @@
 <p align="center">source - https://github.com/BtbN/FFmpeg-Builds/releases?utm_source=copilot.com</p>
 
 <p align="center">
-  <img src="/img/Wcat4.png">
+  <img src="/img/Wcat5.png">
 </p>
 
 
