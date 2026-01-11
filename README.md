@@ -1,8 +1,4 @@
-<p align="center">
-  Donate-บริจาก https://www.patreon.com/c/natsuki69/membership  
-</p>
-
-<p align="center">Follow-ติดตาม: https://www.youtube.com/@Nat_suki452</p>
+<p align="center"> <a href="https://www.patreon.com/c/natsuki69/membership">Donate-บริจาก</a> - <a href="https://www.youtube.com/@Nat_suki452">Follow-ติดตาม</a> </p>
 
 <p align="center">
   <img src="/img/QR4.png">
