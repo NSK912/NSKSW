@@ -45,7 +45,7 @@
   It’s simple, fast, fix broken file,
 </p>
 
-<p align="center"> <a href="https://apps.microsoft.com/detail/9NH7RRKT5LTD?hl=en-us&gl=TH&ocid=pdpshare">Windows</a> - <a href="https://github.com/NSK912/NSKSW/releases/tag/fix">Linux</a> </p>
+<p align="center"> <a href="https://apps.microsoft.com/detail/9NH7RRKT5LTD?hl=en-us&gl=TH&ocid=pdpshare">Windows</a> - <a href="https://github.com/NSK912/NSKSW/releases/tag/fix">Linux</a> Terminal: chmod +x Wcat-3.2.0.AppImage - ./Wcat-3.2.0.AppImage</p>
 
 <p align="center">source - https://github.com/BtbN/FFmpeg-Builds/releases?utm_source=copilot.com</p>
 
