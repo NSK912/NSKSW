@@ -50,11 +50,15 @@
 <p align="center">source - https://github.com/BtbN/FFmpeg-Builds/releases?utm_source=copilot.com</p>
 
 <p align="center">
+  <img src="/img/ac odyssey.png">
+</p>
+
+<p align="center">
   Assassins Creed Odyssey
 </p>
 
 <p align="center">
-  <img src="/img/MegaTagmension Blanc.png">
+  <img src="/img/ac odyssey.png">
 </p>
 
 
