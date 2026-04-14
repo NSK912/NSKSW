@@ -82,6 +82,6 @@ sudo pacman -S fuse2
 </p>
 
 <p align="center">
-  <img src="/img/ncat1.png">
+  <img src="/img/Ncat2.png">
 </p>
 
