@@ -38,35 +38,10 @@
   <img src="/img/MegaTagmension Blanc.png">
 </p>
 
-<p align="center">
-  Wcut
-</p>
+<p align="center"> <a href="https://nsk912.github.io/Wcat/">Wcat 3.5.0.0</a> 
 
 <p align="center">
-  Wcut is an editing app that merges files without re‑encoding, keeping full quality. 
-  It’s simple, fast, fix broken file, AppImage run ./Wcat.AppImage libfuse2 install Ubuntu
-sudo apt update && sudo apt install libfuse2
-Fedora
-sudo dnf install fuse
-Arch
-sudo pacman -S fuse2
-</p>
-
-<p align="center">
-  AppImage run ./Wcat.AppImage - libfuse2 install - Ubuntu
-sudo apt update && sudo apt install libfuse2
-- Fedora
-sudo dnf install fuse
-- Arch
-sudo pacman -S fuse2
-</p>
-
-<p align="center"> <a href="https://apps.microsoft.com/detail/9NH7RRKT5LTD?hl=en-us&gl=TH&ocid=pdpshare">Windows</a> - <a href="https://snapcraft.io/wcat-nsk">Linux Snap</a> - <a href="https://github.com/NSK912/NSKSW/releases/tag/fix">deb AppImage</a></p>
-
-<p align="center">source - https://github.com/BtbN/FFmpeg-Builds/releases?utm_source=copilot.com</p>
-
-<p align="center">
-  <img src="/img/Wcat6.png">
+  <img src="/img/Wcat7.png">
 </p>
 
 <p align="center">
