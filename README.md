@@ -38,7 +38,7 @@
   <img src="/img/MegaTagmension Blanc.png">
 </p>
 
-<p align="center"> <a href="https://nsk912.github.io/Wcat/">Wcat 3.5.0.0</a> 
+<p align="center"> <a href="https://nsk912.github.io/Wcat/">Wcat</a> 
 
 <p align="center">
   <img src="/img/Wcat7.png">
