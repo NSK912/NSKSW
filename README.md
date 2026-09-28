@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://github.com/NSK912/NSKSW/releases/tag/fix">ultrawide Fix</a>
 
 <p align="center">
-  <img src="/img/QR4.png">
+  <img src="/img/QR5.png">
 </p>
 
 <p align="center">
